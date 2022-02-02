@@ -1,15 +1,22 @@
 ### Bem vindo ao meu perfil no GitHub! 😄
 
+---
 <!--
 **LuanPablo/LuanPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### ***Sobre mim:***
-<div style="border 1px #555555 solid"></div>
 
-- 👨‍💻 Estudando desenvolvimento FrontEnd com React 
-- 😄 Pronouns: ele/dele
+<p>
+      Me chamo Luan, tenho 31 anos, sou Analista de Teste de Software e atualmente estou estudando desenvolvimento frontend com React no instituto Infnet.
+   Sou apaixonado por hackathons, e obtive ótimos resultando nos eventos que participei, alcançando o primeiro lugar 5 vezes em menos de 1 ano. 
+</p>
 
-<div align="center">
+- 👩‍💻  Analista de teste de software 
+- 👨‍🎓  Bacharelado em Sistemas de Informação (2018) 
+- 📚  Estudando desenvolvimento front-end com React na Infnet
+- 😄  Pronomes: ele/dele
+
+<div align="left">
   <a href="https://github.com/LuanPablo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanPablo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPablo&layout=compact&langs_count=7&theme=dracula"/>
