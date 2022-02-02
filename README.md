@@ -7,8 +7,8 @@
 
 <div align="left">
   <a href="https://github.com/LuanPablo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanPablo&show_icons=true&theme=false&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPablo&layout=compact&langs_count=7&theme=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanPablo&show_icons=true&theme=purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPablo&layout=compact&langs_count=7&theme=purple"/>
 </div>
         
 <br>
@@ -25,7 +25,7 @@
          🥇  Primeiro lugar em 5 Hackathons 
          📚  Estudante de desenvolvimento front-end com React na Infnet (Em andamento)
          🧙‍♂️  Técnico em Químca ✔️ (2012)
-         📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor (finanças cetralizadas também são bem-vindas) 
+         📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor (finanças centralizadas também são bem-vindas) 
          🎸  Guitarrista apaixonado por teoria musical
 
       
