@@ -7,7 +7,7 @@
 ### ***Sobre mim:***
 
 <p>
-      Me chamo Luan, tenho 31 anos, sou Analista de Teste de Software e atualmente estou estudando desenvolvimento frontend com React no instituto Infnet.
+      Me chamo Luan, tenho 31 anos, sou Analista de Teste de Software e atualmente estou estudando desenvolvimento fron-tend com React no instituto Infnet.
    Sou apaixonado por hackathons, e obtive ótimos resultando nos eventos que participei, alcançando o primeiro lugar 5 vezes em menos de 1 ano. 
 </p>
 
