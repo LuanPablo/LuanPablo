@@ -3,14 +3,6 @@
 <!--
 **LuanPablo/LuanPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-        👩‍💻  Analista de teste de software (aberto para novas oportunidades ✔️)
-        👨‍🎓  Bacharel em Sistemas de Informação ✔️ (2018)
-        🥇  Primeiro lugar em 5 Hackathons 
-        📚  Estudante de desenvolvimento front-end com React na Infnet
-        🧙‍♂️  Técnico em Químca ✔️ (2012)
-        📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor (finanças cetralizadas também são bem-vindas) 
-        🎸  Guitarrista apaixonado por teoria musical
         
 ## ***Sobre mim***
 
@@ -19,6 +11,13 @@
       Recentemente, apaixonado por hackathons e junto com a minha equipe, conseguimos alcançar o primeiro lugar 5 vezes em menos de 1 ano. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e tenho grande interesse por finanças centralizadas e descentralizadas.
 </p>
 
+         👩‍💻  Analista de teste de software (aberto para novas oportunidades ✔️)
+         👨‍🎓  Bacharel em Sistemas de Informação ✔️ (2018)
+         🥇  Primeiro lugar em 5 Hackathons 
+         📚  Estudante de desenvolvimento front-end com React na Infnet
+         🧙‍♂️  Técnico em Químca ✔️ (2012)
+         📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor (finanças cetralizadas também são bem-vindas) 
+         🎸  Guitarrista apaixonado por teoria musical
 
       
    
