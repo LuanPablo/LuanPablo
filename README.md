@@ -21,7 +21,7 @@
       - 👩‍💻  Analista de teste de software (aberto para novas oportunidades ✔️)
       - 👨‍🎓  Bacharel em Sistemas de Informação ✔️ (2018)
       - 🥇  Primeiro lugar em 5 Hackathons 
-      - 📚  Estudante desenvolvimento front-end com React na Infnet
+      - 📚  Estudante de desenvolvimento front-end com React na Infnet
       - 🧙‍♂️  Técnico em Químca ✔️ (2012)
       - 📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor (finanças cetralizadas também são bem-vindas) 
       - 🎸  Guitarrista apaixonado por teoria musical
