@@ -34,7 +34,7 @@
      
 ## Conquistas 🏆
       
-- [Primeiro lugar no Hackathon da Smiles](https://www.youtube.com/watch?v=7sYfDyWGUKY)
+- [Primeiro lugar no Hackathon da Smiles](https://www.youtube.com/watch?v=7sYfDyWGUKY&t=4300s)
   
 <div> 
       
