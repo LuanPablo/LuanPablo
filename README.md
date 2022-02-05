@@ -17,7 +17,7 @@
 
 <p>
       Me chamo Luan, tenho 31 anos, sou do Rio de Janeiro. Sou Analista de Teste de Software e atualmente estou estudando desenvolvimento front-end com React no instituto     Infnet.
-      Recentemente, apaixonado por hackathons e junto com a minha equipe, conseguimos alcançar o primeiro lugar 5 vezes em menos de 1 ano. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e tenho grande interesse por finanças centralizadas e descentralizadas.
+      Recentemente, apaixonado por hackathons e junto com a minha equipe, alcançamos o primeiro lugar 5 vezes em menos de 1 ano. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e tenho grande interesse por finanças centralizadas e descentralizadas.
 </p>
 
          👩‍💻  Analista de teste de software (aberto para novas oportunidades ✔️)
