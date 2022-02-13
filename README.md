@@ -17,12 +17,12 @@
 
 <p>
       Me chamo Luan, tenho 31 anos, sou do Rio de Janeiro. Sou Analista de Teste de Software e atualmente estou estudando desenvolvimento front-end com React no instituto     Infnet.
-      Recentemente fiquei apaixonado por hackathons e junto com a minha equipe, alcançamos o primeiro lugar 5 vezes em menos de 1 ano. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e tenho grande interesse por finanças centralizadas e descentralizadas.
+      Recentemente fiquei apaixonado por hackathons e junto com a minha equipe, alcançamos o primeiro lugar 4 vezes em menos de 1 ano. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e tenho grande interesse por finanças centralizadas e descentralizadas.
 </p>
 
          👩‍💻  Analista de teste de software (aberto para novas oportunidades ✔️)
          👨‍🎓  Bacharel em Sistemas de Informação ✔️ (2018)
-         🥇  Primeiro lugar em 5 Hackathons 
+         🥇  Primeiro lugar em 4 Hackathons 
          📚  Estudante de desenvolvimento front-end com React na Infnet (Cursando)
          🧙‍♂️  Técnico em Químca ✔️ (2012)
          📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor (finanças centralizadas também são bem-vindas) 
@@ -38,12 +38,9 @@
 - [Primeiro lugar no Hackathon CLIMATHON - Sertãozinho BIOMAS 2021]()
 - [Primeiro lugar no Hackathon Saúde Infantil](https://www.youtube.com/watch?v=flPGdf07Mzs&t=2670s)
 - []()
-- []()
-  
-<div> 
-      
 
-  
+<div> 
+     
 <br>
 
   <a href = "mailto:luanpablopaivadelima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
