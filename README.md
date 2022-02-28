@@ -37,7 +37,7 @@
 - [Primeiro lugar no Hackathon da Smiles](https://www.youtube.com/watch?v=7sYfDyWGUKY&t=4300s)
 - [Primeiro lugar no Hackathon CLIMATHON - Sertãozinho BIOMAS 2021]()
 - [Primeiro lugar no Hackathon Saúde Infantil](https://www.youtube.com/watch?v=flPGdf07Mzs&t=2670s)
-- []()
+- [Segundo luagar no hackathondo iFood 2022](https://www.youtube.com/watch?v=m38KAjgp9iY)
 
 <div> 
      
