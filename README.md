@@ -26,7 +26,7 @@
       🥇  Primeiro lugar em 4 Hackathons 
       📚  Estudante de desenvolvimento front-end com React na Infnet (Cursando)
       🧙‍♂️  Técnico em Químca ✔️ (2012)
-      📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor (finanças centralizadas também são bem-vindas) 
+      📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor 
       🎸  Guitarrista apaixonado por teoria musical
 
       
