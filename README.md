@@ -1,7 +1,7 @@
 <!--
 **LuanPablo/LuanPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Bem vindo ao meu perfil no GitHub! 😄
+# Olá! 😄
 
 <br>
 
@@ -17,20 +17,14 @@
 ## ***Sobre mim***
 
 <p>
-      Me chamo Luan, tenho 31 anos, sou do Rio de Janeiro. Sou Analista de Teste de Software e atualmente estou estudando desenvolvimento front-end com React no instituto     Infnet.
-      Recentemente fiquei apaixonado por hackathons e junto com a minha equipe, alcançamos o primeiro lugar 4 vezes em menos de 1 ano. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e tenho grande interesse por finanças centralizadas e descentralizadas.
+      Me chamo Luan, tenho 31 anos, sou do Rio de Janeiro. Sou QA na empresa Semantix e atualmente estou estudando desenvolvimento front-end com React no instituto Infnet.
+      Recentemente fiquei apaixonado por hackathons e junto com a minha equipe, alcançamos o primeiro lugar 4 vezes em menos de 1 ano. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e finanças descentralizadas.
 </p>
-
-      👩‍💻  Quality Assurance na Semantix
-      👨‍🎓  Bacharel em Sistemas de Informação ✔️ (2018)
-      🥇  Primeiro lugar em 4 Hackathons 
-      📚  Estudante de desenvolvimento front-end com React na Infnet (Cursando)
-      🧙‍♂️  Técnico em Químca ✔️ (2012)
-      📈  Apaixonado pela Tecnologia Blockchain / Criptoinvestidor 
-      🎸  Guitarrista apaixonado por teoria musical
-
-      
-   
+      👩‍💻  Quality Assurance Analyst na Semantix
+      📚  Pós-graduação em desenvolvimento front-end com React - Instituto Infnet (Cursando)  
+      👨‍🎓  Bacharel em Sistemas de Informação - Unigranrio (2018)
+      🧙‍♂️  Técnico em Químca (2012) - FAETEC
+      🥇  Primeiro lugar em 4 Hackathons    
 <br>
      
 ## Conquistas 🏆
