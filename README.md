@@ -35,7 +35,7 @@
 - [Primeiro lugar no Hackathon CLIMATHON - Sertãozinho BIOMAS 2021]()
 - [Primeiro lugar no Hackathon Saúde Infantil](https://www.youtube.com/watch?v=flPGdf07Mzs&t=2670s)
 - [Primeiro lugar no Hackathon Virtual Experience 2021]()
-- [Segundo luagar no hackathondo iFood 2022](https://www.youtube.com/watch?v=m38KAjgp9iY)
+- [Segundo luagar no hackathon iFood 2022](https://www.youtube.com/watch?v=m38KAjgp9iY)
 
 <div> 
      
