@@ -26,7 +26,7 @@
      -📚  Pós-graduação em desenvolvimento front-end com React - Instituto Infnet (Cursando)  
      -👨‍🎓  Bacharel em Sistemas de Informação - Unigranrio (2018)
      -🧙‍♂️  Técnico em Químca (2012) - FAETEC
-     -🥇  Primeiro lugar em 4 Hackathons    
+     -🥇  Primeiro lugar em 5 Hackathons    
 <br>
      
 ## Conquistas 🏆
