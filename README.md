@@ -18,7 +18,7 @@
 
 <p>
       Me chamo Luan, tenho 31 anos, sou do Rio de Janeiro. Sou QA na empresa Semantix e atualmente estou estudando desenvolvimento front-end com React no instituto Infnet.
-      Recentemente fiquei apaixonado por hackathons e junto com a minha equipe, alcançamos o primeiro lugar 4 vezes em menos de 1 ano. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e finanças descentralizadas
+      Recentemente fiquei apaixonado por hackathons e junto com a minha equipe, alcançamos o primeiro lugar 5 vezes. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e finanças descentralizadas
 </p>
   
   
