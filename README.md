@@ -17,13 +17,12 @@
 ## ***Sobre mim***
 
 <p>
-      Me chamo Luan, tenho 31 anos, sou do Rio de Janeiro. Sou QA na empresa Semantix e atualmente estou estudando desenvolvimento front-end com React no instituto Infnet.
-      Recentemente fiquei apaixonado por hackathons e junto com a minha equipe, alcançamos o primeiro lugar 5 vezes. O que mais me motiva nesses eventos é a liberdade de propor e criar soluções para diversos tipos de problemas. Sou apaixonado por música, anime, jogos retrô e finanças descentralizadas
+      Sou um analista de teste de software, possuo 4 anos de experiência, durante os quais atuei em diversos projetos e empresas. Durante esse período, minha atuação esteve focada em projetos ágeis, onde desempenhei funções como análise de casos de uso, levantamento e elaboração de cenários de testes, planejamento, execução de testes e status report. Além disso, adquiri conhecimento e experiência em teste de software automatizado, utilizando os frameworks Cypress e Robot Framework para realizar testes end to end.
 </p>
   
   
-     -👩‍💻  Quality Assurance Analyst na Semantix
-     -📚  Pós-graduação em desenvolvimento front-end com React - Instituto Infnet (Cursando)  
+     -👩‍💻  Quality Assurance Analyst
+     -📚  Pós-graduação em desenvolvimento front-end com React - Instituto Infnet (2022)  
      -👨‍🎓  Bacharel em Sistemas de Informação - Unigranrio (2018)
      -🧙‍♂️  Técnico em Químca (2012) - FAETEC
      -🥇  Primeiro lugar em 5 Hackathons    
